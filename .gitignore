@@ -1,0 +1,10 @@
+
+# dbt credentials
+rz_dbt/profiles.yml
+profiles.yml
+
+
+# dbt artifacts
+rz_dbt/target/
+rz_dbt/logs/
+
